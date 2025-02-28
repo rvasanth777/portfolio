@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vasanth | DevOps Engineer</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>VASANTH R</h1>
+        <p>DevOps Engineer | AWS | Docker | Kubernetes</p>
+        <p>
+            📧 <a href="mailto:vasanth07.ramar@gmail.com">vasanth07.ramar@gmail.com</a> |
+            📞 9486614410
+        </p>
+        <p>
+            <a href="https://linkedin.com/in/vasanth-r-8b2a06314" target="_blank">LinkedIn</a> |
+            <a href="https://github.com/rvasanth777" target="_blank">GitHub</a>
+        </p>
+    </header>
+
+    <section id="summary">
+        <h2>Profile Summary</h2>
+        <p>Dedicated and results-driven AWS DevOps professional with a solid background in cloud services and DevOps methodologies. Skilled in automation, CI/CD, infrastructure as code (IaC), and containerization technologies.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Core Competencies</h2>
+        <ul>
+            <li>AWS services (EC2, S3, IAM, ELB)</li>
+            <li>CI/CD Pipelines</li>
+            <li>Infrastructure as Code (Terraform, CloudFormation)</li>
+            <li>Configuration Management (Ansible)</li>
+            <li>Containerization (Docker, Kubernetes)</li>
+            <li>Monitoring & Logging (CloudWatch, Prometheus, Grafana)</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        
+        <h3>Project 1: Deploying a React Application</h3>
+        <p><strong>Role:</strong> DevOps Engineer | <strong>Tools:</strong> Docker, Jenkins, AWS</p>
+        <ul>
+            <li>Dockerized a React application using Dockerfile and Docker Compose.</li>
+            <li>Created CI/CD pipelines with Jenkins for automated deployment.</li>
+            <li>Deployed on AWS EC2 and monitored health status.</li>
+        </ul>
+
+        <h3>Project 2: Infrastructure Automation</h3>
+        <p><strong>Role:</strong> DevOps Engineer | <strong>Tools:</strong> AWS CloudFormation, Ansible</p>
+        <ul>
+            <li>Created CloudFormation templates to deploy AWS resources.</li>
+            <li>Used Ansible for configuration management and security setup.</li>
+        </ul>
+
+        <h3>Project 3: Kubernetes Orchestration</h3>
+        <p><strong>Role:</strong> DevOps Engineer | <strong>Tools:</strong> Terraform, AWS EKS, Kubernetes</p>
+        <ul>
+            <li>Set up a Kubernetes (EKS) cluster using Terraform.</li>
+            <li>Deployed applications using Kubernetes manifests.</li>
+            <li>Implemented an Ingress controller for traffic routing.</li>
+        </ul>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <p>B.E. Mechanical Engineering - Adhiparasakthi Engineering College (2016)</p>
+    </section>
+
+    <footer>
+        <p>📧 Contact: <a href="mailto:vasanth07.ramar@gmail.com">vasanth07.ramar@gmail.com</a></p>
+    </footer>
+</body>
+</html>
